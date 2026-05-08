@@ -1,6 +1,7 @@
 #include <studio.h>
 #include <sumar.h>
 #include <restar.h>
+#include <dividir.h>
 
 
 int main(int argc, char const *argv[])
