@@ -2,7 +2,7 @@
 #include <sumar.h>
 #include <restar.h>
 #include <dividir.h>
-
+#include <multiplicar.h>
 
 int main(int argc, char const *argv[])
 {
